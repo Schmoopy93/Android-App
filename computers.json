@@ -1,0 +1,5 @@
+[{"id": "1" ,"brand": "Samsung","naziv": "M40","tip": "Laptop","dostava": "true","cena": "250"},
+	{"id": "2","brand": "Apple","naziv": "Macbook","tip":"Laptop","dostava": "false","cena":"500"},
+	{"id": "3","brand": "Samsung","naziv": "XPS","tip":"Desktop","dostava": "true","cena":"300"},
+	{"id": "4","brand": "HP","naziv": "Pavilion","tip":"Laptop","dostava": "true","cena":"750"},
+	{"id": "5","brand": "Samsung","naziv": "Tabloid","tip":"Tablet","dostava": "false","cena":"800"}]
